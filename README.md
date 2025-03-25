@@ -29,5 +29,3 @@ First step:
 8) now you are ready to run your login system project !
 9) Happy Coding
 
-More details refer to this youtube video with clear explanation
-https://youtu.be/-1SJPDL-9o8
